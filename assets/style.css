@@ -5,7 +5,7 @@ html{
 body{
 	margin: 0;
 	padding: 0;
-	background: url(img/BACK.jpg); 
+	background: url(img/back.jpg); 
 	background-size: cover;
 	background-repeat: no-repeat;
 	font-family: 'Quicksand', sans-serif;
